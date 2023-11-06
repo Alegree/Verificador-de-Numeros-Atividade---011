@@ -8,10 +8,14 @@ body {
     justify-content: center;
     min-height: 100vh;
     transition: background-color 0.5s;
+    background-color: rgb(140, 146, 172);
 }
 
 .container {
     text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
